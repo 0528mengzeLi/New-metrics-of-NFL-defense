@@ -31,5 +31,5 @@ Innovative metric development to evaluate NFL defensive players.
 
 ## 联系方式
 
-如有任何问题，请通过 [邮箱](2375217338@qq.com) 与我们联系。
+如有任何问题，请通过 [2375217338@qq.com](mailto:2375217338@qq.com)  与我们联系。
 
