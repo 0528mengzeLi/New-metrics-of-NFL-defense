@@ -1,12 +1,14 @@
-# New-metrics-of-NFL-defense
-
 # NFL Big Data Bowl Analysis
 Innovative metric development to evaluate NFL defensive players.
+
+# Face_recognition_with_PCALDA
+《PCA和LDA在人脸识别中的降维应用：综述与展望》论文中涉及到的实验代码。
+
 ## 简介1
 
 欢迎来到NFL Big Data Bowl分析项目的GitHub仓库！本项目专注于使用2022 NFL赛季数据，深入探索橄榄球防守策略中擒抱动作的有效性。通过详细的探索性数据分析（EDA）和数据可视化，我们旨在提供对擒抱动作难度和效果的深入见解。
 
-## 简介1
+## 简介2
 
 欢迎来到人脸识别降维技术应用的GitHub仓库！这些是个人期末大作业内容，仅供参考和验证！
 
